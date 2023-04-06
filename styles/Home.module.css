@@ -1,0 +1,33 @@
+.title {
+  color: #333;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.text {
+  color: #070400;
+  padding: 2px 2px;
+}
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+}
+
+.order {
+  display: block;
+  width: 130px;
+  /* height: 30px; */
+  padding: 5px 0;
+  background: #ff69a9;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  margin-left: 12px;
+  font-size: 12px;
+
+}
